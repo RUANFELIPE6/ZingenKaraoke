@@ -19,32 +19,7 @@ Zingen é um projeto de página web criado para oferecer uma experiência simple
 📦 ZingenKaraoke/
 ├── index.html
 ├── /styles
-│ ├── about.css
-│ ├── buttons.css
-│ ├── cards.css
-│ ├── download.css
-│ ├── features.css
-│ ├── footer.css
-│ ├── global.css
-│ ├── header.css
-│ ├── hero.css
-│ ├── index.css
-│ ├── pricing.css
-│ ├── sections.css
-│ ├── social.css
-│ └── utility.css
 ├── /assets
-│ ├── /icons/
-│ ├── Check.svg
-│ ├── GameController.svg
-│ ├── MagicWand.svg
-│ ├── MicrophoneStage.svg
-│ ├── MusicNotes.svg
-│ ├── UsersThree.svg
-│ ├── ic_baseline-discord.svg
-│ ├── ic_baseline-tiktok.svg
-│ ├── mdi_instagram.svg
-│ └── ri_twitter-x-fill.svg
 
 ## 🛠️ Tecnologias Utilizadas
 
